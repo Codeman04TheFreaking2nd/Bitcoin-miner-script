@@ -14,4 +14,4 @@ If you don't know how to execute the code its simple, open your CMD, Terminal, S
 
 I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR OR OTHERS MACHINE! In other words, It is important to note that attempting to mine Bitcoin using a personal computer is not profitable and could potentially damage your hardware. Additionally, this script could potentially be harmful to your system, and it is important to be cautious when running any script obtained from an external source.
 
-Don't come crying to me and shit when shit doesn't work, I won't be updating this for long. I have too much retarded crap going on right now.
+Don't come crying to me when code and crap doesn't work, I won't be updating this for long. I have too much retarded crap going on right now.
